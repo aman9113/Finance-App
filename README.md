@@ -1,3 +1,2 @@
 # Finance-App
-This i created using figma.
-This Aap is created to see all bank details see credit score,finance,tranjection details,including atm, withdrawa and withdraw. 
+This finace app i created using figma, to see all bank details, credit score, finance, transation details, including atm, withdrawa and withdraw. 
